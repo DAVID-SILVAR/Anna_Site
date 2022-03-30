@@ -1,0 +1,59 @@
+body{
+			font-size: 25px;
+			/*font-family: "American Typewriter", serif;*/
+			/*background-color: #C1CDCD;*/
+
+
+			background: #d2d2c1 url('imagens/fundo.png');
+			/*background-image: url('imagens/fundo.png');*/
+			/*background-repeat: no-repeat;*/
+			/*background-attachment: fixed;*/
+			/*background-position: center center;*/
+			font: 16px Arial, Helvetica, sans-serif;
+
+
+}
+
+#principal{
+	/*border: solid black;*/
+	width: 900px;
+	margin: auto;
+	display: block;
+}
+
+#menu{
+	background: #c5c5b2;
+	padding: 18px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.texto{
+	font:  20px Arial, sans-serif;
+	padding: 10px;
+	background-color: #FFF8DC;
+}
+
+/*.titulo{
+	text-align: center;
+}*/
+
+.centralizartexto{
+	text-align: center;
+}
+
+#rodape{
+	
+	text-align: center;
+	background-color: #c5c5b2;
+	padding: 5px;
+
+}
+
+.img_campanha{
+	border: 10px solid #c3c3ae;
+
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
